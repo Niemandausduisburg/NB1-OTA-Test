@@ -1,0 +1,3 @@
+LineageOS 18.1 - January 2021
+- Updated Kernel to Linux 4.4.453
+- OTA-Test-Build for OTA-Test
