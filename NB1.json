@@ -1,1 +1,19 @@
-{ "response": [ { "datetime": 1611479011, "filename": "RROS-Q-8.6.6-20210124-NB1-Nightly.zip", "id": "e1a42c9ab67b51d0ccaa2fad92738b02aea619a790b60e7ea4dda1a90673b7f0", "romtype": "Nightly", "size": 862552603, "url": "https://ota.resurrectionremix.com/ten/NB1/RROS-Q-8.6.6-20210124-NB1-Nightly.zip", "version": "8.6.6"  }]}
+{ "response": [ 
+{ 
+"maintainer": "Niemandausduisburg",
+"oem": "Nokia",
+"device": "Nokia 8",
+"datetime": 1611479011, 
+"filename": "RROS-Q-8.6.6-20210124-NB1-Nightly.zip", 
+"id": "e1a42c9ab67b51d0ccaa2fad92738b02aea619a790b60e7ea4dda1a90673b7f0", 
+"romtype": "Nightly", 
+"gapps": "https://sourceforge.net/projects/flamegapps/files/arm64/android-10/",
+"size": 862552603, 
+"url": "https://ota.resurrectionremix.com/ten/NB1/RROS-Q-8.6.6-20210124-NB1-Nightly.zip", 
+"version": "8.6.6",
+"recovery": "https://github.com/Niemandausduisburg/NB1-Recoverys/releases",
+"paypal": "https://www.paypal.com/donate?hosted_button_id=PBXB4E986AZ3Q",
+"telegram": "https://t.me/Niemandausduisburg"
+		}
+	]
+}
