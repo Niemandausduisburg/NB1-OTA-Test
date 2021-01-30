@@ -9,11 +9,11 @@
 "romtype": "Nightly", 
 "gapps": "https://sourceforge.net/projects/flamegapps/files/arm64/android-10/",
 "size": 862311482, 
-"url": "https://github.com/Niemandausduisburg/NB1-OTA-Test/releases/download/20210130/RROS-Q-8.6.6-20210130-NB1-Nightly.zip", 
+"url": "https://github.com/Niemandausduisburg/NB1-OTA-Test/releases/download/20210130/RROS-Q-8.6.6-20210130-NB1-Nightly.zip",
 "version": "8.6.6",
 "recovery": "https://github.com/Niemandausduisburg/NB1-Recoverys/releases",
 "paypal": "https://www.paypal.com/donate?hosted_button_id=PBXB4E986AZ3Q",
-"telegram": "https://t.me/Niemandausduisburg",
+"telegram": "https://t.me/Niemandausduisburg"
 		}
 	]
 }
