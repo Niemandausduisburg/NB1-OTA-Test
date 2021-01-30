@@ -4,7 +4,7 @@
 "oem": "Nokia",
 "device": "Nokia 8",
 "datetime": 1612020610, 
-"filename": "RROS-Q-8.6.6-20210126-NB1-Nightly.zip", 
+"filename": "RROS-Q-8.6.6-20210130-NB1-Nightly.zip", 
 "id": "5fd4b57a776c290d6ca70f40942ef04af33098aac86fab817551f0d93e89378b", 
 "romtype": "Nightly", 
 "gapps": "https://sourceforge.net/projects/flamegapps/files/arm64/android-10/",
